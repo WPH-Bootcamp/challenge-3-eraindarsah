@@ -1,0 +1,56 @@
+{
+  "userProfile": {
+    "name": "User",
+    "joinDate": "2025-11-11T14:50:01.285Z",
+    "totalHabits": 4,
+    "completedThisWeek": 0
+  },
+  "habits": [
+    {
+      "id": 1,
+      "name": "Minum Air 8 Gelas",
+      "targetFrequency": 7,
+      "completions": [
+        "2025-11-11T00:00:00.000Z",
+        "2025-11-10T00:00:00.000Z",
+        "2025-11-09T00:01:00.000Z",
+        "2025-11-09T00:02:00.000Z",
+        "2025-11-09T00:02:01.000Z",
+        "2025-11-09T00:02:02.000Z",
+        "2025-11-09T00:02:03.000Z"
+      ],
+      "createdAt": "2025-11-11T14:03:36.039Z"
+    },
+    {
+      "id": 2,
+      "name": "Olahraga 30 Menit",
+      "targetFrequency": 5,
+      "completions": [],
+      "createdAt": "2025-11-11T14:03:36.063Z"
+    },
+    {
+      "id": 3,
+      "name": "Baca Buku 30 Menit",
+      "targetFrequency": 5,
+      "completions": [
+        "2025-11-11T00:00:00.000Z",
+        "2025-11-10T00:00:00.000Z",
+        "2025-11-09T00:01:00.000Z",
+        "2025-11-09T00:02:00.000Z"
+      ],
+      "createdAt": "2025-11-11T14:03:36.064Z"
+    },
+    {
+      "id": 4,
+      "name": "Meditasi 10 Menit",
+      "targetFrequency": 7,
+      "completions": [
+        "2025-11-11T00:00:00.000Z",
+        "2025-11-10T00:00:00.000Z",
+        "2025-11-09T00:01:00.000Z"
+      ],
+      "createdAt": "2025-11-11T14:03:36.066Z"
+    }
+  ],
+  "nextHabitId": 6
+}
